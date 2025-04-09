@@ -24,7 +24,7 @@ Uploads and imports data from a CSV file into the database. This must be a valid
 
 ### Request Body
 
-No body is required (or if uploading via a client, attach a file named `file`).
+No body is required.
 
 ### Response
 
